@@ -10,13 +10,13 @@ Leonardo Soares - M: 572986
 
 ---------------------------------------------------------
 
-Prompt Engineering Toolkit — E-Commerce
+# Prompt Engineering Toolkit — E-Commerce
 
 Toolkit acadêmico de Prompt Engineering que aplica 4 técnicas de prompting sobre tarefas reais de atendimento ao cliente em e-commerce, compara resultados e gera relatórios automáticos.
 
 -----------------------------------------------------------
 
-O projeto recebe tarefas de negócio do domínio de e-commerce e aplica automaticamente as seguintes técnicas de prompting:
+# O projeto recebe tarefas de negócio do domínio de e-commerce e aplica automaticamente as seguintes técnicas de prompting:
 
 Zero-Shot: apenas instrução + input, sem exemplos
 
@@ -30,27 +30,27 @@ Os resultados são medidos em acurácia, tokens e tempo, e salvos em CSV com gr�
 
 -------------------------------------------------------------
 
-1. Clone ou baixe o projeto
+# 1. Clone ou baixe o projeto
 
 cd Desktop
 cd prompt-toolkit
 
-2. Crie o ambiente virtual
+# 2. Crie o ambiente virtual
 
 python -m venv venv
 
 
-3. Ative o ambiente virtual
+# 3. Ative o ambiente virtual
 
 venv\Scripts\activate
 
-4. Instale as dependências
+# 4. Instale as dependências
 
 pip install -r requirements.txt
 
 --------------------------------------------------------------
 
-Ollama
+# Ollama
 
 1. Instale o Ollama
 
@@ -70,7 +70,7 @@ python main.py
 
 ---------------------------------------------------------------
 
-Para executar:
+# Para executar:
 
 python main.py
 
