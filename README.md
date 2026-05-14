@@ -6,7 +6,7 @@ Matheus Pimenta Martini - RM: 569400
 
 Gabiel Carvalho - RM: 571381
 
-Leonardo Soares - M: 572986
+Leonardo Soares - RM: 572986
 
 ---------------------------------------------------------
 
